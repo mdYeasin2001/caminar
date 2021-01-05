@@ -1,0 +1,155 @@
+/*============ global selection ============*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*============= some start plan =============*/
+
+.container{
+    max-width: 90%;
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+
+
+/*================ start styling ==============*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(images/bg.jpg) no-repeat;
+    background-size: 100vw 100vh;
+    background-position: top center;
+    background-attachment: fixed;
+}
+.caminar-top-section .caminar-head-text h1{
+    text-transform: capitalize;
+    font-size: 60px;
+}
+.caminar-top-section .caminar-head-text p{
+    text-transform: uppercase;
+    font-size: 19px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.caminar-top-section .caminar-head-text{
+    color: #fff;
+    width: 600px;
+    margin: 80px auto 0px;
+    text-align: center;
+}
+.caminar-top-section .caminar-head-img{
+    padding-top: 50px;
+}
+.fringilla-area .top-area{
+    background: #fff;
+    text-align: center;
+}
+.top-area p{
+    color: gray;
+}
+.top-area{
+    padding: 50px 0px;
+}
+.top-area hr{
+    background: orange;
+}
+#hr{
+    width: 100px;
+    margin: auto;
+}
+.top-area h2{
+    font-size: 25px;
+    padding: 60px 0px 15px;
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
+}
+.top-area p{
+    padding: 15px 0px;
+    font-size: 15px;
+    letter-spacing: 1.3px;
+    word-spacing: 3px;
+}
+.fringilla-area .bottom-area{
+    padding: 80px;
+    background: #F7F6F5;
+}
+.fringilla-area .bottom-area p{
+    text-align: justify;
+}
+section.vestibulum-area {
+    padding: 80px;
+    background: #1E1F23;
+    text-align: center;
+    height: 945px;
+}
+section.vestibulum-area .top-area {
+    background: #121315;
+}
+section.vestibulum-area .top-area h2{
+    color: #fff;
+}
+.half-width {
+    width: 50%;
+    float: left;
+    max-height: 263.52px;
+}
+.caminar-head-img {
+    max-height: 456.95px;
+}
+.half-width-resume {
+    width: 50%;
+    float: left;
+    height: 455.28px;
+}
+.bg-white{
+    background: white;
+}
+.bg-dark{
+    background: #1E1F2A;
+}
+.bg-dark h3{
+    color: #fff;
+    direction: rtl;
+}
+.bg-dark p{
+    color: rgb(189, 186, 186);
+}
+.half-width-text{
+    text-align: center;
+    padding: 160px 50px;
+
+}
+
+p{
+    color: #999;
+    letter-spacing: 1.2px;
+    padding: 20px 0px;
+    font-size: 14px;
+    line-height: 1.7;
+    word-spacing: 2px;
+}
+.half-width-text h3{
+    font-size: 20px;
+    text-align: left;
+}
+.half-width-text{
+    text-align: left;
+}
+#footer-area{
+    margin-top: 125px;
+    text-align: center;
+}
+.resume-area{
+    height: 1365px;
+}
+
+
+
+
+
+
+
+
+
+
